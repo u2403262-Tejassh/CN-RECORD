@@ -1,0 +1,1 @@
+Message transmitted through FTP!
